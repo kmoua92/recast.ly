@@ -10,7 +10,6 @@ var VideoListEntry = (props) => (
   </div>
 );
 
-ReactDOM.render(<VideoListEntry />, document.getElementsByClassName('video-list'));
 
 // PropTypes tell other developers what `props` a component expects
 // Warnings will be shown in the console when the defined rules are violated
